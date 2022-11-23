@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="720.0" style="-fx-background-color: #000;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.i200444_i200518_project.Profile">
+   <children>
+      <ImageView fitHeight="175.0" fitWidth="187.0" layoutX="272.0" layoutY="24.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@profile_pic.PNG" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="238.0" prefHeight="45.0" prefWidth="600.0" style="-fx-background-color: #590296;" text="Name" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="user_name" alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="284.0" prefHeight="45.0" prefWidth="600.0" text="Ol Mcdonald" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="330.0" prefHeight="45.0" prefWidth="600.0" style="-fx-background-color: #590296;" text="Number" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="user_phone" alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="376.0" prefHeight="45.0" prefWidth="600.0" text="+92 312 23144674" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="422.0" prefHeight="45.0" prefWidth="600.0" style="-fx-background-color: #590296;" text="Roll Number" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="user_rollnum" alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="468.0" prefHeight="45.0" prefWidth="600.0" text="20i-3412" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="514.0" prefHeight="45.0" prefWidth="600.0" style="-fx-background-color: #590296;" text="Description" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="user_desc" alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="560.0" prefHeight="45.0" prefWidth="600.0" text="President 2022-23" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
