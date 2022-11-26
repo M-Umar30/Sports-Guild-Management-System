@@ -70,8 +70,9 @@ public class User {
         this.type = type;
     }
 
-    public void initiateLogin() {
+    public User initiateLogin() {
         DBHelper dbHelper = new DBHelper();
-        dbHelper.login(this);
+        return dbHelper.login(this);
+
     }
 }

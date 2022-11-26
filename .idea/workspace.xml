@@ -4,43 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb68e2aa-687d-4847-bf07-f144d682bc65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddCaptain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddExecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/GlogoW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/announcements_graphic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/attendance_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/logout_graphic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/meeting_graphics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile-user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile_graphic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/register_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddCaptain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddExecutive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddTeam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloController.java" afterDir="false" />
+    <list default="true" id="cb68e2aa-687d-4847-bf07-f144d682bc65" name="Changes" comment="Post merge commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Announcement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/EquipmentInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Fixture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/DBHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/Profile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-captain.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-captain.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-executive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-executive.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-member.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-member.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-team.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-team.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/guild_logo.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/login.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +54,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Muhammad Umar/Desktop/FAST/Semester 5/Software Development & Analysis/Project/i200444_i200518_Project",
+    "last_opened_file_path": "C:/Users/Muhammad Umar/Desktop/FAST/Semester 5/Software Development & Analysis/Project/i200444_i200518_Project/mysql-connector-java-8.0.29.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.JavaFX",
     "settings.editor.splitter.proportion": "0.310559"
   }
@@ -98,8 +77,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669460735012</updated>
-      <workItem from="1669460737507" duration="652000" />
+      <workItem from="1669460737507" duration="6223000" />
     </task>
+    <task id="LOCAL-00001" summary="Post merge commit">
+      <created>1669461459969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669461459969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Post merge commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Post merge commit" />
   </component>
 </project>
