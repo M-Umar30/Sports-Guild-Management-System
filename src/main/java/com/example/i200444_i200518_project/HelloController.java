@@ -22,7 +22,7 @@ public class HelloController {
     @FXML
     private TextField pass;
     @FXML
-    private TextField email;
+    private TextField cnic;
     @FXML
     private TextField rollnum;
 
@@ -36,7 +36,7 @@ public class HelloController {
     private void execButton() {
         System.out.println("Username: " + username.getText());
         System.out.println("Password: " + pass.getText());
-        System.out.println("Email: " + email.getText());
+        System.out.println("Email: " + cnic.getText());
         System.out.println("Roll Number: " + rollnum.getText());
     }
 

@@ -1,4 +1,4 @@
-package com.example.i200444_i200518_project;
+package com.example.i200444_i200518_project.Controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

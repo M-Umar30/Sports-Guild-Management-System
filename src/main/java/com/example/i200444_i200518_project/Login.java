@@ -20,29 +20,15 @@ public class Login {
     @FXML
     private PasswordField pass;
     @FXML
-    private TextField email;
-
-    @FXML
-    private Label createAccount;
+    private TextField username;
 
     @FXML
     private Button submit_btn;
 
     @FXML
     private void execButton() {
-        System.out.println("Password: " + pass.getText());
-        System.out.println("Email: " + email.getText());
+        User user = new User(username.getText(), pass.getText());
+        user.initiateLogin();
     }
 
-    public void switchToSignup(MouseEvent mouseEvent) {
-        try {
-            root = FXMLLoader.load(getClass().getResource("hello-view.fxml"));
-            stage = (Stage) createAccount.getScene().getWindow();
-            scene = new Scene(root);
-            stage.setScene(scene);
-            stage.show();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
 }

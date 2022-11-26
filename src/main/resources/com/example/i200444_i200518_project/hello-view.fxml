@@ -8,42 +8,47 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="604.0" prefWidth="678.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.i200444_i200518_project.HelloController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="655.0" style="-fx-background-color: #3f4044;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.i200444_i200518_project.HelloController">
    <children>
-      <ImageView fitHeight="184.0" fitWidth="204.0" layoutX="251.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="184.0" fitWidth="204.0" layoutX="239.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@guild_logo.PNG" />
+            <Image url="@guild_logo.png" />
          </image>
       </ImageView>
-      <TextField fx:id="username" alignment="CENTER" layoutX="161.0" layoutY="217.0" prefHeight="38.0" prefWidth="356.0" promptText="Username">
+      <TextField fx:id="username" alignment="CENTER" layoutX="149.0" layoutY="217.0" prefHeight="38.0" prefWidth="356.0" promptText="Username" style="-fx-background-color: #5c5d61; -fx-text-fill: #fff;">
          <font>
             <Font size="18.0" />
          </font>
       </TextField>
-      <TextField fx:id="email" alignment="CENTER" layoutX="161.0" layoutY="277.0" prefHeight="38.0" prefWidth="356.0" promptText="Email">
+      <TextField fx:id="cnic" alignment="CENTER" layoutX="149.0" layoutY="277.0" prefHeight="38.0" prefWidth="356.0" promptText="CNIC" style="-fx-background-color: #5c5d61; -fx-text-fill: #fff;">
          <font>
             <Font size="18.0" />
          </font>
       </TextField>
-      <TextField fx:id="rollnum" alignment="CENTER" layoutX="161.0" layoutY="339.0" prefHeight="38.0" prefWidth="356.0" promptText="Roll Number">
+      <TextField fx:id="rollnum" alignment="CENTER" layoutX="149.0" layoutY="339.0" prefHeight="38.0" prefWidth="356.0" promptText="Roll Number" style="-fx-background-color: #5c5d61; -fx-text-fill: #fff;">
          <font>
             <Font size="18.0" />
          </font>
       </TextField>
-      <Label fx:id="haveaccount" layoutX="430.0" layoutY="459.0" onMouseClicked="#switchtoLogin" style="-fx-font-weight: bold;" text="Already Have An Account?" textFill="WHITE">
-         <font>
-            <Font size="14.0" />
-         </font>
-      </Label>
-      <Button fx:id="submit_btn" layoutX="276.0" layoutY="502.0" mnemonicParsing="false" onAction="#execButton" prefHeight="50.0" prefWidth="125.0" style="-fx-background-color: #0c147a; -fx-font-weight: bold; -fx-background-radius: 1em;" text="Sign Up" textFill="WHITE">
+      <Button fx:id="submit_btn" layoutX="264.0" layoutY="502.0" mnemonicParsing="false" onAction="#execButton" prefHeight="50.0" prefWidth="125.0" style="-fx-background-color: #5c5d61; -fx-font-weight: bold; -fx-background-radius: 1em;" text="Sign Up" textFill="WHITE">
          <font>
             <Font size="14.0" />
          </font>
       </Button>
-      <TextField fx:id="pass" alignment="CENTER" layoutX="162.0" layoutY="400.0" prefHeight="40.0" prefWidth="356.0" promptText="Password">
+      <TextField fx:id="pass" alignment="CENTER" layoutX="150.0" layoutY="400.0" prefHeight="40.0" prefWidth="356.0" promptText="Password" style="-fx-background-color: #5c5d61; -fx-text-fill: #fff;">
          <font>
             <Font size="18.0" />
          </font>
       </TextField>
+      <Label layoutX="451.0" layoutY="70.0" text="Admin" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="48.0" />
+         </font>
+      </Label>
+      <Label layoutX="6.0" layoutY="70.0" text="Register" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="48.0" />
+         </font>
+      </Label>
    </children>
 </AnchorPane>

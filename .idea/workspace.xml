@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb68e2aa-687d-4847-bf07-f144d682bc65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddCaptain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddExecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/AddTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/GlogoW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/announcements_graphic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/attendance_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/logout_graphic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/meeting_graphics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile-user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile_graphic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/register_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddCaptain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddExecutive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/AddTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/i200444_i200518_project/Controllers/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-captain.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-captain.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-executive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-executive.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-member.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-member.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-team.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/add-team.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/guild_logo.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/i200444_i200518_project/profile.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2I59lEJJkjuI33OfWQMFrrmmWI7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Muhammad Umar/Desktop/FAST/Semester 5/Software Development & Analysis/Project/i200444_i200518_Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "settings.editor.splitter.proportion": "0.310559"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb68e2aa-687d-4847-bf07-f144d682bc65" name="Changes" comment="" />
+      <created>1669460735012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669460735012</updated>
+      <workItem from="1669460737507" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
